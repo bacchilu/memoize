@@ -1,6 +1,6 @@
 # memoize
 
-We can use this decorator function in this way:
+We use the decorator function in this way:
 
     const fib = function (n) {
         if (n === 1)
